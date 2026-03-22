@@ -15,7 +15,7 @@ class Docs2llm < Formula
   on_macos do
     on_arm do
       url "https://github.com/al-ignat/docs2llm/releases/download/v0.1.0/docs2llm-darwin-arm64.tar.gz"
-      sha256 "f9934ae8ac77a8d07f81d38531997f77490e7bdc892033073c917fe536694324"
+      sha256 "269ca48a1b99ce7c299b67bb8b66e90ee60785ae2421bcc6eeb2959ab03feca3"
     end
   end
 
